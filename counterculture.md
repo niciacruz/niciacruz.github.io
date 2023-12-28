@@ -1,6 +1,6 @@
 
-* [simple living](simple living.md)
+* [simple living](simpleliving.md)
 * [homeschooling](homeschool.md)
 * [open-source](open-source.md)
-* [slow marketing](slow marketing.md)
+* [slow marketing](slowmarketing.md)
 * [diy](diy.md)
