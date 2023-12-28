@@ -7,11 +7,11 @@ this is my digital garden: a place where I can indulge in my many special intere
 
 ## some of those interests are:
 
-* **[[counterculture]]** (simple living, homeschooling, anti/slow marketing, diy, and the like);
-* **[[neurodiversity]]** (especially the neurodivergent brain, I focus more on [[ADHD]] and [[autism]] as me and my kid are both [[auDHD]]);
-* **[[spirituality]]** (wicca, tarot, well-being, connection to self and nature);
-* **[[anthropology]]** (in general);
-* and **[[communication]]** (non-violent communication, self-expression, autistic communication).
+* **[counterculture](counterculture.md)** (simple living, homeschooling, anti/slow marketing, diy, and the like);
+* **[neurodiversity](neurodiversity.md)** (especially the neurodivergent brain, I focus more on [ADHD](ADHD.md) and [autism](autism.md) as me and my kid are both [auDHD](auDHD.md));
+* **[spirituality](spirituality.md)** (wicca, tarot, well-being, connection to self and nature);
+* **[anthropology](anthropology.md)** (in general);
+* and **[communication](communication.md)** (non-violent communication, self-expression, autistic communication).
 
 ## projects i'm involved
 
