@@ -7,7 +7,7 @@ always complying to a society that is based on power. where we always loose.
 
 i'm a win-win kind of person. so, [counterculture](counterculture.md) lives in my blood.
 
-i [homeschool](homeshool.md). i don't use capitalised letters. i live in a camping site.
+i [homeschool](homeschool.md). i don't use capitalised letters. i live in a camping site.
 
 i want to grow my own food and create my own stuff. i started with [macramé](macramé.md). i'm in awe with all the amazing things i can do with just a cord and my hands (ok, and some other tools to ease the job: like scissors!).
 
