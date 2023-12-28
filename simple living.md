@@ -1,15 +1,15 @@
 
 there's something about living simply that attracts me.
 
-as an auDHD, i can't understand the meaningless flow of people's lives: always rushing to the next thing. the next objective, the next gadget, the next relationship. their future self.
+as an [auDHD](auDHD.md), i can't understand the meaningless flow of people's lives: always rushing to the next thing. the next objective, the next gadget, the next relationship. their future self.
 
 always complying to a society that is based on power. where we always loose.
 
-i'm a win-win kind of person. so, [[counterculture]] lives in my blood.
+i'm a win-win kind of person. so, [counterculture](counterculture.md) lives in my blood.
 
-i [[homeschooling|homeschool]]. i don't use capitalised letters. i live in a camping site.
+i [homeschool](homeshooling.md). i don't use capitalised letters. i live in a camping site.
 
-i want to grow my own food and create my own stuff. i started with [[macramé]]. i'm in awe with all the amazing things i can do with just a cord and my hands (ok, and some other tools to ease the job: like scissors!).
+i want to grow my own food and create my own stuff. i started with [macramé](macramé.md). i'm in awe with all the amazing things i can do with just a cord and my hands (ok, and some other tools to ease the job: like scissors!).
 
 simple living, for me, is to live accordingly to your own values and give yourself the time and the pleasure to indulge on your passions and to be with the people you love and care about.
 
